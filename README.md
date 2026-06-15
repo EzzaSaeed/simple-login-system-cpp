@@ -1,4 +1,4 @@
-9Simple Login System (C++)
+Simple Login System (C++)
 
 
 A beginner-friendly C++ project demonstrating user registration and login functionality using basic programming concepts.
